@@ -13,6 +13,10 @@ It supports **Users, Products, Categories, and Cart management**.
 - Deployable on **Render / Railway / Vercel**
 
 ---
+URL:
+
+https://ecommerce-backend-q8eo.onrender.com
+
 
 ## ⚙️ Setup Instructions
 
