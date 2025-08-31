@@ -72,9 +72,9 @@ npm run dev
 ```
 🌐 Hosted API
 
-Base URL (example if deployed):
+Base URL:
 ```bash
-https://ecommerce-backend.onrender.com/api
+https://ecommerce-backend-q8eo.onrender.com
 
 ```
 📖 API Documentation
